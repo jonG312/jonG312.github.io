@@ -1,20 +1,20 @@
 
 title: My Resume
-url: 'https://jong312.github.io/'
+url: 'http://jonG312.github.io'
 baseurl: '/jonG312.github.io' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Jonas Gil  ## put your name
-title: 'GRAPHIC COMPUTER &amp; SOFTWARE ENGINEERING'  ## your title
-location: Beijing , BJ
+yourname: Jonas  Gil ## put your name
+title: 'GRAPHICS COMPUTING &amp; SOFTWARE ENGINEERING'  ## your title
+location: San Francisco , CA
 
 
 ## Social Profiles
-facebook: https://www.facebook.com/CONSTRUYOU  ## your facebook account url
-twitter: https://twitter.com/JONASGI34269219  ## your twitter account url
-linkedin: https://www.linkedin.com/in/gildevlink/  ## your linkedin account url
+facebook: http://www.facebook.com  ## your facebook account url
+twitter: http://www.twitter.com  ## your twitter account url
+linkedin: http://www.linkedin.com  ## your linkedin account url
 dribbble: http://www.dribble.com  ## you dribbble account url
 foursquare: http://www.foursquare.com  ## your foursquare account url
 
