@@ -1,20 +1,21 @@
-
-title: jonas gil | sotware & videojuegos & ciberseguridad - trabajos & resumen
-url: 'http://jonG312.github.io'
-baseurl: '/jonG312.github.io' #change it according to your repository name
-
+# SEO & Browser Tab Title
+title: "Jonas Gil | Computer Graphics & Software Engineering"
+description: "Software Engineer specializing in Game Development, Computer Graphics, and Software Localization (Trilingual: ES/EN/ZH)."
+url: 'https://jonG312.github.io' # Asegúrate de usar https para mejor SEO
+baseurl: '' # Si tu dominio es jonG312.github.io, esto debe quedar vacío.
 
 # Profile information
-yourname: Jonas  Gil ## put your name
-title: 'GRAPHICS COMPUTING &amp; SOFTWARE ENGINEERING'  ## your title
-location: BEIJING , BJ
-
+yourname: "Jonas Gil"
+title: "COMPUTER GRAPHICS &amp; SOFTWARE ENGINEERING"
+location: "Valencia, Vzla | Granada, ES" # Agregué Granada por tu Master (da prestigio internacional)
 
 ## Social Profiles
-facebook: https://www.facebook.com/CONSTRUYOU  ## your facebook account url
-twitter: https://twitter.com/JONASGI34269219  ## your twitter account url
-linkedin: https://www.linkedin.com/in/gildevlink/?locale=en_US  ## your linkedin account url
 
+# Para un perfil de Software Engineer es mejor priorizar GitHub.
+facebook: "https://www.facebook.com/CONSTRUYOU" 
+twitter: "https://twitter.com/JONASGI34269219" 
+linkedin: "https://www.linkedin.com/in/gildevlink/?locale=en_US"
+github: "https://github.com/jonG312" # ¡Indispensable para SEO de programadores!
 
-
-# Update all the sections by editing the files inside _includes folder.
+# Keywords (Para motores de búsqueda)
+keywords: "Software Engineering, Game Development, Unity, Unreal Engine, LQA, Software Localization, Trilingual Developer, Computer Graphics"
